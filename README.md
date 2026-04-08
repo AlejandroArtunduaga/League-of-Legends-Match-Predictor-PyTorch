@@ -1,4 +1,4 @@
-# LoL Match Predictor — PyTorch
+# League of Legends Match Predictor — PyTorch
 
 Modelo de regresión logística implementado 
 desde cero con PyTorch para predecir 
