@@ -20,7 +20,6 @@ Modelo de regresión logística implementado desde cero con PyTorch para predeci
 | Con L2 | 55.50% | 51.50% |
 | **AUC-ROC** | — | **~0.50** |
 
-> Nota: El dataset sintético de IBM Skills Network genera clases con baja separabilidad, lo que explica el accuracy cercano al azar. El objetivo del proyecto es demostrar el pipeline de ML completo con PyTorch, no maximizar el rendimiento predictivo.
 
 ## Stack
 
